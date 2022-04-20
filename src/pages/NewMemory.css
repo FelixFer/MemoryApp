@@ -1,0 +1,20 @@
+.content {
+    text-align: center;
+}
+
+.image-preview {
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000;
+}
+
+.image-preview h3 {
+    font-size: 20px;
+    margin: 50px 0 50px 0;
+}
+
+.image-preview img {
+    object-fit: cover;
+    height: 100%;
+}
